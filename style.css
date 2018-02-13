@@ -1,13 +1,14 @@
 th,
 td {
   border-radius: 5px;
+  text-align: center;
 }
 th {
   background-color: #B4C2CF;
 }
 table {
   /*border-collapse: collapse;*/
-  border-spacing: 8px;
+  border-spacing: 5px;
 }
 .magistral {
   background-color: #BFBFBF;
@@ -26,4 +27,14 @@ table {
 }
 .informal {
   background-color: #CACBFF;
+}
+td span {
+  display: block;
+}
+.ponenete {
+  font-style: italic;
+}
+.event-type {
+  font-size:.8em;
+  font-style: italic;
 }
